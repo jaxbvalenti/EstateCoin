@@ -1,2 +1,0 @@
-# EstateCoin
-RWA Tokenization Website
